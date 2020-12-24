@@ -12,10 +12,14 @@ cd ~/catkin_ws
 caktin_make
 ```
 ## Run the Project
+open a termnial
 ```
 source devel/setup.bash
 roslaunch my_robot world.launch
-
+```
+in another terminal 
+```
+source devel/setup.bash
 roslaunch my_robot amcl.launch
 ```
 
