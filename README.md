@@ -14,11 +14,13 @@ caktin_make
 ## Run the Project
 open a termnial
 ```
+cd catkin_ws
 source devel/setup.bash
 roslaunch my_robot world.launch
 ```
 in another terminal 
 ```
+cd catkin_ws
 source devel/setup.bash
 roslaunch my_robot amcl.launch
 ```
