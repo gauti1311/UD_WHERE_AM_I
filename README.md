@@ -1,5 +1,5 @@
 # UD_WHERE_AM_I
-A project of Udacity Nano-degree Robotics Software Engineer. Robot localization (AMCL) using ROS and Gazebo simulation.
+Robot localization (AMCL) using ROS and Gazebo simulation - A project of Udacity Nano-degree Robotics Software Engineer. 
 
 ## Installation
 ```
